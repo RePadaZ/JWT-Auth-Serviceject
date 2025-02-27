@@ -1,0 +1,12 @@
+DataBase:
+  user: "userBD"
+  password: "userPassword"
+  dbname: "nameBD"
+  host: "hostBD"
+  port: portBD
+  sslmode: "disable"
+jwt:
+  secret: "exemplekey"
+  expire: 3600
+server:
+    port: 8080
