@@ -40,11 +40,13 @@
 </ul>
 
 <h3>Скопировать данный репозиторий</h3>
+
 ```
 git clone https://github.com/RePadaZ/JWT-Auth-Serviceject.git
 ```
 
 <h3>Установка зависимостей</h3>
+
 ```
 go mod init auth-service
 go get -u github.com/gin-gonic/gin
